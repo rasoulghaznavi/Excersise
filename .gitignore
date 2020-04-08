@@ -5811,3 +5811,5 @@ SpamData/01_Processing/wordcloud_resources/whale-icon.png
 SpamData/01_Processing/wordcloud_resources/whale.svg
 SpamData/02_Training/.DS_Store
 SpamData/03_Testing/.DS_Store
+SpamData/02_Training/test-data.txt
+SpamData/02_Training/train-data.txt
